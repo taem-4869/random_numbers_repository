@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مولد الأعداد العشوائية</string>
+    <string name="random_numbers_generator">مولد الاعداد العشوائية</string>
+    <string name="normal_number">عدد طبيعي</string>
+    <string name="decimal_number">عدد عشري</string>
+    <string name="minimum">الأدنى</string>
+    <string name="generate_10">توليد 10</string>
+    <string name="generate_a_number">توليد عدد</string>
+    <string name="maximum_exclusive">الأقصى (غير متضمن)</string>
+    <string name="min_value_should_be_less_than_max_value">القيمة الدنيا يجب أن تكون أصغر تماما من القيمة القصوى</string>
+    <string name="error_occurred_please_check_your_inputs">حدث خطأ، رجاءا راجع مدخلاتك</string>
+
+</resources>

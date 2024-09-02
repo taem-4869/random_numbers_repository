@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Random Number Generator</string>
+    <string name="random_numbers_generator">Random Numbers Generator</string>
+    <string name="normal_number">Normal Number</string>
+    <string name="decimal_number">Decimal Number</string>
+    <string name="minimum">minimum</string>
+    <string name="generate_10">Generate 10</string>
+    <string name="generate_a_number">Generate a number</string>
+    <string name="maximum_exclusive">maximum exclusive</string>
+    <string name="min_value_should_be_less_than_max_value">the minimum value should be less than the maximum value</string>
+    <string name="error_occurred_please_check_your_inputs">Error occurred, please check your inputs</string>
+</resources>
